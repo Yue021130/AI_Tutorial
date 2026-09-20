@@ -1,0 +1,15 @@
+# Agent 工作数据（每日日志、项目记忆），不入仓库
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统文件
+Thumbs.db
+.DS_Store
